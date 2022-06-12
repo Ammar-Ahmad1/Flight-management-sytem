@@ -1,0 +1,2 @@
+Flight 123,lhr to kar,10:10am, original price: 100.0$
+Flight 234,grw to lhr,10:10am 10 nov 2021, original price: 100.0$
